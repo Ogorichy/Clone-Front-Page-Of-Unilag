@@ -1,0 +1,16 @@
+#news{padding-right: 50px;
+	  padding-left: 50px;
+      }
+
+#studying{padding: 20px 70px 20px 70px;
+	  background: darkred;
+      }
+
+ #building{margin-left: 70px;
+      }
+ button{background: black;
+       color: whitesmoke;}
+
+
+ #covid{display: flex;
+        padding: 20px 70px 20px 70px;}
